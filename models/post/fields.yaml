@@ -71,6 +71,7 @@ tabs:
             mode: relation
             nameFrom: name
             tab: Tags
+            readOnly: true
 
         _tags_trigger:
             commentAbove: Hide if "a" or "b" are used as tags above
